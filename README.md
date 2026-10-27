@@ -1,4 +1,4 @@
-# lmos-public-claude
+# lmos-public-grok
 
 Handshake — anonymous multiplayer trail game from Living Mirror OS.
 
