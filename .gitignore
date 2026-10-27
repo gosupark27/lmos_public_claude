@@ -1,8 +1,5 @@
-node_modules
-dist
-.vercel
-.tanstack
-.grok
-.env
-.env.*
-*.local
+node_modules/
+.wrangler/
+.dev.vars
+dist/
+.data/
